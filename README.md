@@ -23,4 +23,4 @@ Once the game starts press __TAB__ button on keyboard, and type your word.
 
 Once you type the desired word press __Enter__ button on keyboard.
 
-## HAVE FUN! 
+__HAVE FUN!__ 
